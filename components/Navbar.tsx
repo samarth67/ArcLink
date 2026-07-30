@@ -16,9 +16,7 @@ export default function Navbar() {
         <Link href="/explorer">Explorer</Link>
         <Link href="/profile">Profile</Link>
 
-        <button className="rounded-xl bg-blue-600 px-5 py-2 hover:bg-blue-700 transition">
-          Connect Wallet
-        </button>
+        <appkit-button />
       </div>
     </nav>
   );
