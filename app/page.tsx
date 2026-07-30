@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import FeatureCard from "@/components/FeatureCard";
 import Footer from "@/components/Footer";
@@ -25,7 +24,6 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <Navbar />
       <Hero />
 
       <section className="grid gap-6 px-8 pb-20 md:grid-cols-2 lg:grid-cols-4">
