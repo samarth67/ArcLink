@@ -10,7 +10,7 @@ export const wagmiAdapter = new WagmiAdapter({
   }),
   ssr: true,
   projectId: PROJECT_ID,
-  networks,
+  networks: [...networks],
 });
 
 export const wagmiConfig = wagmiAdapter.wagmiConfig;

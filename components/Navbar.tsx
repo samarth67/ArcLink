@@ -10,14 +10,15 @@ export default function Navbar() {
       </Link>
 
       <div className="flex items-center gap-6">
-        <Link href="/">Home</Link>
-        <Link href="/dashboard">Dashboard</Link>
-        <Link href="/faucet">Faucet</Link>
-        <Link href="/explorer">Explorer</Link>
-        <Link href="/profile">Profile</Link>
+  <Link href="/">Home</Link>
+  <Link href="/dashboard">Dashboard</Link>
+  <Link href="/history">History</Link>
+  <Link href="/faucet">Faucet</Link>
+  <Link href="/explorer">Explorer</Link>
+  <Link href="/profile">Profile</Link>
 
-        <appkit-button />
-      </div>
+  <appkit-button />
+</div>
     </nav>
   );
 }

@@ -12,7 +12,7 @@ const queryClient = new QueryClient();
 
 createAppKit({
   adapters: [wagmiAdapter],
-  networks,
+  networks: [arcTestnet],
   projectId: PROJECT_ID,
   defaultNetwork: arcTestnet,
   metadata: {
