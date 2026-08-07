@@ -47,7 +47,7 @@ export default function Home() {
   <div className="mx-auto max-w-6xl rounded-3xl border border-zinc-800 bg-zinc-900/40 p-10">
 
     <h2 className="text-center text-4xl font-bold text-white">
-      Why ArcLink?
+      Why LinkPay?
     </h2>
 
     <p className="mt-3 text-center text-gray-400">
@@ -93,7 +93,7 @@ export default function Home() {
   <div className="mx-auto max-w-6xl">
 
     <h2 className="text-center text-4xl font-bold text-white">
-      How ArcLink Works
+      How LinkPay Works
     </h2>
 
     <p className="mt-3 text-center text-gray-400">
