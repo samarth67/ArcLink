@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ArcLink",
-  description: "The Social Layer of Arc",
+  title: "LinkPay",
+  description: "Create and share USDC payment links built on Arc Network",
 };
 
 export default function RootLayout({

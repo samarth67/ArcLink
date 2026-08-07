@@ -36,6 +36,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# ArcLink
+# LinkPay
 the fastest payment link application built on arc blockchain
 >>>>>>> ba5ed2a58c31dfb65da4a00dcba6ed27dd72a83e
